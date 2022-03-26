@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olá, Sou Vinicius, bem vindo ao meu perfil
 
+##### Tenho conhecimento de C# e estou me aventurando a aprender novas metodologias e frameworks front end.
+
+  <div>
+    <a href="https://github.com/Vinicius9-Nunes">
+      <img height"180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius9-Nunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius9-Nunes&layout=compact&langs_count=7&theme=dracula"/>
+  </div>
+  
+ 
 <!--
 **Vinicius9-Nunes/Vinicius9-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
