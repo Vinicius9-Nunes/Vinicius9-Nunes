@@ -1,6 +1,8 @@
 ### Olá, Sou Vinicius, bem vindo ao meu perfil 
 
 ##### Tenho conhecimento de C# e estou me aventurando a aprender novas metodologias e frameworks front end.
+Essa seção esta em construção 🚧👷🛠🚧
+##
 
   <div>
     <a href="https://github.com/Vinicius9-Nunes">
